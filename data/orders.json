@@ -1,0 +1,34 @@
+[
+  {
+    "order_id": "QK-1001",
+    "city": "Bengaluru",
+    "payment_status": "PAID",
+    "inventory_status": "RESERVED",
+    "delivery_status": "ASSIGNED",
+    "created_minutes_ago": 8
+  },
+  {
+    "order_id": "QK-1002",
+    "city": "Gurugram",
+    "payment_status": "PENDING",
+    "inventory_status": "RESERVED",
+    "delivery_status": "NOT_ASSIGNED",
+    "created_minutes_ago": 19
+  },
+  {
+    "order_id": "QK-1003",
+    "city": "Hyderabad",
+    "payment_status": "PAID",
+    "inventory_status": "OUT_OF_STOCK",
+    "delivery_status": "NOT_ASSIGNED",
+    "created_minutes_ago": 12
+  },
+  {
+    "order_id": "QK-1004",
+    "city": "Pune",
+    "payment_status": "PAID",
+    "inventory_status": "RESERVED",
+    "delivery_status": "DELIVERED",
+    "created_minutes_ago": 42
+  }
+]
